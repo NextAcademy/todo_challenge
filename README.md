@@ -1,6 +1,6 @@
-# Assessment
+# Checkpoint Test
 
-This is an open-book **checkpoint** assessment focusing on building a
+This is an open-book **checkpoint** test focusing on building a
 simple TODO ruby app using ActiveRecord with SQL database.
 
 # Purpose
