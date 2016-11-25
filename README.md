@@ -8,7 +8,7 @@ The test is to ensure that you are familiar with the basics of ActiveRecord,
 and how it works with database (sqlite3 in this case) using Ruby.
 
 # Assessment Time
-10:00am - 2:30pm
+10:00am - 4:00pm
 
 # To start:
 1) FORK this repo out by clicking the "**Fork**" button on the top right side of the GitHub page.
