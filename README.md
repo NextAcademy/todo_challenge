@@ -28,7 +28,7 @@ $ git clone <your repo address>
 $ cd <repo-name>
 ```
 
-4) Starts writing your code on "todo.rb" file
+4) Start writing your code on "todo.rb" file
 
 ```
 Remember to commit small and often. Some good references:
