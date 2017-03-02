@@ -96,7 +96,7 @@ No.   Description     Status
 ```
 
 ```
-$ ruby todo.rb --update 1 "Buy Groceries" "Done"
+$ ruby todo.rb --update 1 "Buy Fruits" "Done"
 ```
 ```
 $ ruby todo.rb --list
@@ -104,7 +104,7 @@ $ ruby todo.rb --list
 ```
 No.   Description     Status
 ===   ===========     =====
-1.    Buy Groceries   Done
+1.    Buy Fruits      Done
 2.    Fuel My Car     Undone
 ```
 
