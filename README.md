@@ -1,14 +1,11 @@
-# Checkpoint Test
+# Checkpoint
 
-This is an open-book **checkpoint** test focusing on building a
+This is an open-book **checkpoint** practice focusing on building a
 simple TODO ruby app using ActiveRecord with SQL database.
 
 # Purpose
 The test is to ensure that you are familiar with the basics of ActiveRecord,
 and how it works with database (sqlite3 in this case) using Ruby.
-
-# Assessment Time
-10:00am - 4:00pm
 
 # To start:
 1) FORK this repo out by clicking the "**Fork**" button on the top right side of the GitHub page.
@@ -157,8 +154,9 @@ No.   Description     Status
 $ ruby todo.rb --remove 3
 ```
 
-Task number 3 is not found. Are you sure that this is the right task number?
-
+```
+> Task number 3 is not found. Are you sure that this is the right task number?
+```
 
 
 **IMPORTANT NOTE**:
