@@ -38,10 +38,6 @@ $ git commit
 $ git push origin master
 ```
 
-5) Once done, call a mentor and Slack him/her your GitHub repo link.
-
-6) The mentor will assess your performance.
-
 # App Requirements:
 
 Example:
