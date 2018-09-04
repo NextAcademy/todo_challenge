@@ -24,13 +24,18 @@ elsif ARGV[0] == '--list'
 
 elsif ARGV[0] == '--update'
   p 'update'
-  # update method here.
   no = ARGV[1]
+  list = Task.all
+  if no.to_i > list.count
+    puts "INVALID ID"
+  else
   description = ARGV[2]
   status = ARGV[3]
   task = Task.find_by(id: no)
   task.update(description: description, status: status)
+  end 
+
 elsif ARGV[0] == '--remove'
   p 'remove'
-  # remove method here.
+
 end
